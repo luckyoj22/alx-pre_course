@@ -1,0 +1,6 @@
+[master 73b6776] task 2
+ 4 files changed, 4 insertions(+)
+ create mode 100644 0x01-git/bash/.alx.swo
+ create mode 100644 0x01-git/bash/.alx.swp
+ create mode 100644 0x01-git/bash/alx
+ create mode 100644 0x01-git/bash/school
